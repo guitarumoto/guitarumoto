@@ -2,7 +2,7 @@
 
 👩🏻‍💻  Bachelor in Computer Engineering and Full Stack developer;
 
-🪐  20-years-old from Brazil. 
+🪐  21-years-old from Brazil. 
 
 <br>
 
