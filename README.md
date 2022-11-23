@@ -1,6 +1,8 @@
 ## Hi there, I'm Guilherme 👋
 
-👩🏻‍💻  Bachelor in Computer Engineering and Full Stack developer;
+👩🏻‍💻  Bachelor in Computer Engineering;
+
+🦆  Software Engineer II for BeforeTI
 
 🪐  21-years-old from Brazil. 
 
@@ -20,6 +22,9 @@
 
 ### Stacks
 <div>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="python" width="40" height="40"/> 
+    </a>
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
