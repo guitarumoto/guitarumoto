@@ -1,8 +1,10 @@
 ## Hi there, I'm Guilherme 👋
 
-👩🏻‍💻  Bachelor in Computer Engineering;
+💼CFO of HaruCode;
 
-🦆  Software Engineer II for BeforeTI
+👩🏻‍💻  Computer Engineering;
+
+🦆  Software Engineer
 
 🪐  23-years-old from Brazil. 
 
